@@ -2,7 +2,10 @@
 Hare in GitHub have all My Projects, You can use for free
 
 ## Game Project 
-- PuzelBluck Game. 
+- PuzelBluck Game.
+
+### PuzelBluck Game
+![](https://github.com/lidormalicb/My-Projects/blob/main/puzelBluck/Splash.png?raw=true)
 - -  Game description
 	> There is a database of quadratic forms (like a tetris game) that needs to be dragged to the board in an empty space.
 You also need to try to reach your goal state yourself "
