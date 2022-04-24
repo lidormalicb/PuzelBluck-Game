@@ -4,7 +4,7 @@ Hare in GitHub have all My Projects, You can use for free
 ## Game Project 
 - PuzelBluck Game.
 
-[img src="https://github.com/lidormalicb/My-Projects/blob/main/puzelBluck/Splash.png?raw=true" width="400"]
+<img src="https://github.com/lidormalicb/My-Projects/blob/main/puzelBluck/Splash.png?raw=true" width="400"> 
 ### PuzelBluck Game
 
 - -  Game description
