@@ -1,5 +1,5 @@
 # My-Projects
-Hare in GitHub have all My Projects, You can use for free
+Here are all my projects, you can use them for free
 
 ## Game Project 
 - PuzelBluck Game.
