@@ -1,7 +1,4 @@
-# My-Projects
-Here are all my projects, you can use them for free
-
-## Game Project 
+# Game Project 
 - PuzelBluck Game.
 
 <img src="https://github.com/lidormalicb/My-Projects/blob/main/puzelBluck/Splash.png?raw=true" width="400"> .
