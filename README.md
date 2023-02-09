@@ -1,8 +1,8 @@
 # Game Project 
-- PuzelBluck Game.
+- PuzzleBlock Game.
 
-<img src="https://github.com/lidormalicb/PuzelBluck-Game/blob/main/Splash.png?raw=true" width="400"> .
-### PuzelBluck Game
+<img src="https://github.com/lidormalicb/PuzzleBlock-Game/blob/main/Splash.png?raw=true" width="400"> .
+### PuzzleBlock Game
 
 - -  Game description
 	> There is a database of quadratic forms (like a tetris game) that needs to be dragged to the board in an empty space.
