@@ -1,7 +1,7 @@
 # Game Project 
 - PuzzleBlock Game.
 
-<img src="https://github.com/lidormalicb/PuzzleBlock-Game/blob/main/Splash.png?raw=true" width="400"> .
+<img src="https://github.com/lidormalich/PuzzleBlock-Game/blob/main/Splash.png?raw=true" width="400"> .
 ### PuzzleBlock Game
 
 - -  Game description
